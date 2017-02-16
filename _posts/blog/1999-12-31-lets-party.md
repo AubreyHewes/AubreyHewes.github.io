@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Let's Party
-date: '1999-12-31 11:59:59 -0800'
+date: '1999-12-31 11:59:59 +0100'
 thumbnail: /images/uploads/keezbord.jpg
 rating: 5
 ---
